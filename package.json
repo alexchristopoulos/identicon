@@ -1,0 +1,12 @@
+{
+  "name": "identicon",
+  "version": "1.0.0",
+  "description": "Identicon generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env ./identicon.js"
+  },
+  "keywords": [],
+  "author": "Alexandros Christopoulos (alex1951132@gmail.com)",
+  "license": "ISC"
+}
