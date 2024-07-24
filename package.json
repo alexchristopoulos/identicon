@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Alexandros Christopoulos (alex1951132@gmail.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
 }
